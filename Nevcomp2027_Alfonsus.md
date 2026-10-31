@@ -5,7 +5,7 @@ Fon37 Writeup Nevcomp 3.0
 ## Categories
 - Pwn/Binary Exploitation
    - [Simple Login](./Simple%20Login.md)
-   - [Vault](<./Vault.md)
+   - [Vault](./Vault.md)
 - Crypto
    - [Broken_Broadcast](./Broken%20Broadcast.md)
    - [Too Close](./Too%20Close.md)
