@@ -182,8 +182,8 @@ uint FUN_00101176(byte param_1,byte param_2)
 ```
 Di sini program membandingkan input yang dicompute dengan beberapa step bit scramble dengan ciphertext hasilnya. Terdapat juga key "4_l1ttl3_b1t_0f_x0r_4nd_4_wh0l3_l0t_0f_sh1ft1ng" yang nantinya akan menjadi key dari repeating xor. Langkah-langkah compute nya adalah:
 ```python
-    step1 = input ^ key[i % len(key)]
-    step2 = step1 - i & 0xff
+    step1 = (input ^ key[i % len(key)]) & 0xff
+    step2 = (step1 + i) & 0xff
     step3 = rol(step2, 4, 8)
     ciphertext = ror(step3, 5, 8)
 ```
@@ -191,8 +191,8 @@ Dari sini tinggal kita balik aja menjadi
 ```python
     step1 = rol(target[i],5, 8)
     step2 = ror(step1, 4, 8)
-    step3 = step2 - i & 0xff
-    step4 = step3 ^ key[i % len(key)]
+    step3 = (step2 - i) & 0xff
+    step4 = (step3 ^ key[i % len(key)]) & 0xff
     pt += chr(step4)
 ```
 ## Solution
