@@ -100,4 +100,4 @@ Breakpoint hit at 0x5555555551ab
 flag: NevComp3.0{tr4c3_m3_1f_y0u_c4n_w1th_gdb_ptr4c3}
 
 ---
-[Back to home](./Nevcomp2027_Alfonsus.md)
+[Back to home](./README.md)

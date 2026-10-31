@@ -94,4 +94,4 @@ b'NevComp3.0{a_little_too_close_for_comfort}'
 Flag: NevComp3.0{a_little_too_close_for_comfort}
 
 ---
-[Back to home](./Nevcomp2027_Alfonsus.md)
+[Back to home](./README.md)

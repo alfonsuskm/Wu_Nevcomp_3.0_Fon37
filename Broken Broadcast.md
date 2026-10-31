@@ -106,4 +106,4 @@ Cleartext : b'NevComp3.0{stop_shouting_the_same_secret_everywhere}'
 FLAG : NevComp3.0{stop_shouting_the_same_secret_everywhere}
 
 ---
-[Back to home](./Nevcomp2027_Alfonsus.md)
+[Back to home](./README.md)

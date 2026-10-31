@@ -230,4 +230,4 @@ NevComp3.0{shuffl1ng_n1bbl3s_4nd_r0ll1ng_b1ts_l1k3_4_pr0f3ss10n4l_ch3f})øpð¸G
 Flag: NevComp3.0{shuffl1ng_n1bbl3s_4nd_r0ll1ng_b1ts_l1k3_4_pr0f3ss10n4l_ch3f}
 
 ---
-[Back to home](./Nevcomp2027_Alfonsus.md)
+[Back to home](./README.md)

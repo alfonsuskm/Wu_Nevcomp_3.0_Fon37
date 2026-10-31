@@ -233,4 +233,4 @@ NevComp3.0{basic_ret2libc_ggwp...sengaja_gk_kasih_libc_biar_cari_libc_nya_sendir
 FLAG : NevComp3.0{basic_ret2libc_ggwp...sengaja_gk_kasih_libc_biar_cari_libc_nya_sendiri_fdec58ec61d}
 
 ---
-[Back to home](./Nevcomp2027_Alfonsus.md)
+[Back to home](./README.md)
